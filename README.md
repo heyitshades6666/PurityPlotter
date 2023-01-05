@@ -4,7 +4,7 @@ public &amp; private cords plotted onto a graph representing the Purity Vanilla 
 <h3>
   POINT DATA MODEL (json)
 </h3>
-{
+```{
     name : string
     description : string
     color : number
@@ -16,4 +16,4 @@ public &amp; private cords plotted onto a graph representing the Purity Vanilla 
     dimension : string (overworld, nether, end)
     created : number (unixTimestamp)
     history : [{obj}]
-}
+}```
