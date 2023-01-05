@@ -7,14 +7,14 @@
 {
     name : string,
     description : string,
-    color : number (hex),
+    color : number,
     location : {
         x : number,
         y : number,
         z : number,
-    }
-    dimension : number (1 = overworld, 2 = nether, 3 = end),
-    created : number (unixTimestamp),
+    },
+    dimension : number,
+    created : number,
     history : [{obj}]
 }
 ```
