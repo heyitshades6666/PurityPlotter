@@ -4,7 +4,7 @@ public &amp; private cords plotted onto a graph representing the Purity Vanilla 
 <h3>
   POINT DATA MODEL (json)
 </h3>
-```json
+```javascript
 {
     name : string
     description : string
